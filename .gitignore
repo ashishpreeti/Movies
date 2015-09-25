@@ -1,0 +1,60 @@
+.apt_generated/
+.classpath
+.factorypath
+.idea
+.project
+.settings/
+target/
+*.iml
+.pmd
+.pmdruleset.xml
+log4j.properties
+log4j.xml
+.DS_Store
+overlays
+keystore.jks
+selenium_standalone_binaries/
+selenium_standalone_zips/
+screenshots/
+src/main/resources/vme-registration/application.properties
+src/main/resources/vme-services/application.properties
+src/main/resources/cmconfig
+/target
+# Packages #
+############
+node_modules/
+# Logs #
+########
+*.log
+# OS generated files #
+######################
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+.lck
+# Less artifacts #
+##################
+*.css
+# test artifacts #
+##################
+results.html
+testsuite.html
+selenium.log
+test/coverage
+.grunt/
+_SpecRunner.html
+google/
+coverage-*.json
+validation-report.json
+validation-status.json
+# build artifacts #
+###################
+built.js
+built.min.js
+built.min.js.map
+built.min.js.report.txt
+templates.js
+
